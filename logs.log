@@ -1,0 +1,1621 @@
+[2022-08-22] 18:15:30 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:15:30 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:15:30 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:15:30 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:15:30 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:15:43 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:15:43 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:15:43 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:15:43 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:15:43 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:16:45 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:16:45 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:16:45 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:16:45 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:16:45 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:16:46 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7ff7fdb9fee0>
+[2022-08-22] 18:16:46 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 18:16:46 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 18:16:46 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 18:16:46 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 18:16:46 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 18:16:46 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 18:16:46 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 18:16:46 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 18:16:46 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 18:16:46 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 18:16:46 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 18:16:46 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 18:16:46 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 18:16:46 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 18:16:47 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 18:16:47 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 18:16:47 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 18:16:47 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 18:16:47 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:16:57 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:16:57 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:16:57 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:16:57 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:17:07 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:17:07 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:17:07 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:17:07 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:17:10 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823519]
+[2022-08-22] 18:17:10 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7ff7fdaf6400>]
+[2022-08-22] 18:17:10 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:17:10 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:17:10 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661192230, 'message_id': 246, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823519}
+[2022-08-22] 18:17:20 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:17:20 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:17:20 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:17:20 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:17:30 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:17:30 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:17:30 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:17:30 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:17:40 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:17:40 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:17:40 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:17:40 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:17:51 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:17:51 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:17:51 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:17:51 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:18:01 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:18:01 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:18:01 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:18:01 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:18:11 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:18:11 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:18:11 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:18:11 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:18:21 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:18:21 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:18:21 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:18:21 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:18:31 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:18:31 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:18:31 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:18:31 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:18:41 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:18:41 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:18:41 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:18:41 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:18:51 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:18:51 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:18:51 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:18:51 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:19:02 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:19:02 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:19:02 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:19:02 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:19:12 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:19:12 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:19:12 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:19:12 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:19:22 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:19:22 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:19:22 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:19:22 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:19:32 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:19:32 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:19:32 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:19:32 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:19:42 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:19:42 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:19:42 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:19:42 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:19:52 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:19:52 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:19:52 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:19:52 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:20:02 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:20:02 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:20:02 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:20:02 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:20:13 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:20:13 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:20:13 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:20:13 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:20:23 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:20:23 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:20:23 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:20:23 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:20:33 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:20:33 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:20:33 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:20:33 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:20:43 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:20:43 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:20:43 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:20:43 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:20:53 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:20:53 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:20:53 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:20:53 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:21:03 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:21:03 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:21:03 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:21:03 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:21:13 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:21:13 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:21:13 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:21:13 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:21:24 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:21:24 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:21:24 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:21:24 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:21:34 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:21:34 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:21:34 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:21:34 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:21:44 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:21:44 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:21:44 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:21:44 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:21:54 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:21:54 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:21:54 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:21:54 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:22:04 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:22:04 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:22:04 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:22:04 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:22:14 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:22:14 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:22:14 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:22:14 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:22:24 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:22:24 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:22:24 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:22:24 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:22:35 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:22:35 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:22:35 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:22:35 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:22:45 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:22:45 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:22:45 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:22:45 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:22:55 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:22:55 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:22:55 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:22:55 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:23:05 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:23:05 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:23:05 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:23:05 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:23:15 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:23:15 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:23:15 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:23:15 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:23:25 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:23:25 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:23:25 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:23:25 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:23:36 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:23:36 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:23:36 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:23:36 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:23:46 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:23:46 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:23:46 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:23:46 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:23:56 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:23:56 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:23:56 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:23:56 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:24:06 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:24:06 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:24:06 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:24:06 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:24:16 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:24:16 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:24:16 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:24:16 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:24:26 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:24:26 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:24:26 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:24:26 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:24:36 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:24:36 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:24:36 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:24:36 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:24:47 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:24:47 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:24:47 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:24:47 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:24:57 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:24:57 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:24:57 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:24:57 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:25:07 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:25:07 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:25:07 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:25:07 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:25:17 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:25:17 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:25:17 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:25:17 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:25:27 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:25:27 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:25:27 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:25:27 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:25:37 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:25:37 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:25:37 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:25:37 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:25:48 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 18:25:48 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 18:25:48 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 18:25:48 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 18:25:50 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:25:50 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:25:50 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:25:50 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:25:50 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:27:42 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:27:42 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:27:42 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:27:42 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:27:42 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:35:33 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:35:33 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:35:33 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:35:33 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:35:33 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:40:03 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:40:03 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:40:03 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:40:03 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:40:03 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:40:06 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:40:06 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:40:06 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:40:06 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:40:06 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:40:19 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:40:19 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:40:19 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:40:19 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:40:19 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:45:11 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:45:11 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:45:11 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:45:11 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:45:11 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:45:19 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:45:19 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:45:19 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:45:19 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:45:19 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:45:44 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:45:44 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:45:44 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:45:44 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:45:44 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:48:58 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:48:58 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:48:58 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:48:58 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:48:58 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:54:41 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:54:41 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:54:41 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:54:41 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:54:41 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:54:45 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:54:45 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:54:45 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:54:45 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:54:45 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:54:48 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 18:54:48 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 18:54:48 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 18:54:48 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 18:54:48 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 18:57:10 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:06:13 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:06:13 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 19:06:13 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 19:06:13 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 19:06:13 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 19:06:15 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7f6341435ee0>
+[2022-08-22] 19:06:15 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 19:06:15 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 19:06:15 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 19:06:15 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 19:06:16 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 19:06:16 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 19:06:16 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 19:06:16 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 19:06:16 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 19:06:16 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 19:06:16 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 19:06:16 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 19:06:16 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 19:06:16 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 19:06:16 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 19:06:16 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 19:06:16 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 19:06:16 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 19:06:16 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:06:16 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823589, 525823590, 525823591, 525823592]
+[2022-08-22] 19:06:16 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f634138d400>, <telegram.update.Update object at 0x7f634138d700>, <telegram.update.Update object at 0x7f634138d7c0>, <telegram.update.Update object at 0x7f634138d880>]
+[2022-08-22] 19:06:16 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:06:16 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:06:16 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '210', 'photo': [], 'date': 1661194997, 'message_id': 335, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823589}
+[2022-08-22] 19:06:16 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 19:06:16 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661195001, 'message_id': 336, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823590}
+[2022-08-22] 19:06:16 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 19:06:16 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 19:06:17 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Hello there, do you want to answer a question? (Yes/No)', 'photo': [], 'date': 1661195176, 'message_id': 339, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 19:06:17 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 19:06:17 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Yes', 'photo': [], 'date': 1661195004, 'message_id': 337, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823591}
+[2022-08-22] 19:06:17 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 19:06:17 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 19:06:17 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Calculate 541+440', 'photo': [], 'date': 1661195177, 'message_id': 340, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 19:06:17 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 19:06:17 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661195099, 'message_id': 338, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823592}
+[2022-08-22] 19:06:17 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 1
+[2022-08-22] 19:07:00 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:07:00 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 19:07:00 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 19:07:00 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 19:07:00 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 19:07:04 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7fb35ddc9ee0>
+[2022-08-22] 19:07:04 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 19:07:04 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 19:07:04 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 19:07:04 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 19:07:05 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 19:07:05 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 19:07:05 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 19:07:05 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 19:07:05 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 19:07:05 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 19:07:05 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 19:07:05 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 19:07:05 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 19:07:05 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 19:07:05 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 19:07:05 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 19:07:05 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 19:07:05 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 19:07:05 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:07:15 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:07:15 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:07:15 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:07:15 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:07:24 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823597]
+[2022-08-22] 19:07:24 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7fb35dd21400>]
+[2022-08-22] 19:07:24 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:07:24 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:07:24 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661195244, 'message_id': 345, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823597}
+[2022-08-22] 19:07:24 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 19:07:24 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 19:07:25 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Hello there, do you want to answer a question? (Yes/No)', 'photo': [], 'date': 1661195245, 'message_id': 346, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 19:07:25 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 19:07:28 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823598]
+[2022-08-22] 19:07:28 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7fb35dd217c0>]
+[2022-08-22] 19:07:28 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:07:28 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:07:28 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Yes', 'photo': [], 'date': 1661195248, 'message_id': 347, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823598}
+[2022-08-22] 19:07:28 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 19:07:28 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 19:07:29 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Calculate 794+702', 'photo': [], 'date': 1661195248, 'message_id': 348, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 19:07:29 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 19:12:43 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:12:43 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 19:12:43 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 19:12:43 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 19:12:43 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 19:12:46 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7f0254a8cee0>
+[2022-08-22] 19:12:46 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 19:12:46 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 19:12:46 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 19:12:46 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 19:12:46 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 19:12:46 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 19:12:46 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 19:12:46 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 19:12:46 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 19:12:46 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 19:12:46 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 19:12:46 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 19:12:46 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 19:12:46 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 19:12:46 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 19:12:46 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 19:12:46 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 19:12:46 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 19:12:46 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:12:46 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823600, 525823601, 525823602, 525823603]
+[2022-08-22] 19:12:46 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f02548b54c0>, <telegram.update.Update object at 0x7f02548b57c0>, <telegram.update.Update object at 0x7f02548b5880>, <telegram.update.Update object at 0x7f02548b5940>]
+[2022-08-22] 19:12:46 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:12:46 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:12:46 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'yes', 'photo': [], 'date': 1661195279, 'message_id': 352, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823600}
+[2022-08-22] 19:12:46 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 19:12:46 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661195287, 'message_id': 353, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823601}
+[2022-08-22] 19:12:46 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 19:12:46 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 19:12:47 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Hello there, do you want to answer a question? (Yes/No)', 'photo': [], 'date': 1661195567, 'message_id': 356, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 19:12:47 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 19:12:47 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661195520, 'message_id': 354, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823602}
+[2022-08-22] 19:12:47 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 19:12:47 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Yes', 'photo': [], 'date': 1661195522, 'message_id': 355, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823603}
+[2022-08-22] 19:12:47 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 19:12:47 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 19:12:47 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Calculate 929+49', 'photo': [], 'date': 1661195567, 'message_id': 357, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 19:12:47 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 19:12:51 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823604]
+[2022-08-22] 19:12:51 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f02548b54c0>]
+[2022-08-22] 19:12:51 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:12:51 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:12:51 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Yes', 'photo': [], 'date': 1661195570, 'message_id': 358, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823604}
+[2022-08-22] 19:12:51 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 1
+[2022-08-22] 19:12:55 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823605]
+[2022-08-22] 19:12:55 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f02548b5940>]
+[2022-08-22] 19:12:55 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:12:55 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:12:55 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661195575, 'message_id': 359, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823605}
+[2022-08-22] 19:12:55 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 1
+[2022-08-22] 19:13:05 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:13:05 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:13:05 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:13:05 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:13:15 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:13:15 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:13:15 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:13:15 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:13:26 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:13:26 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:13:26 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:13:26 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:13:36 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:13:36 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:13:36 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:13:36 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:13:44 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823606]
+[2022-08-22] 19:13:44 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f02548b57c0>]
+[2022-08-22] 19:13:44 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:13:44 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:13:44 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661195624, 'message_id': 360, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823606}
+[2022-08-22] 19:13:44 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 1
+[2022-08-22] 19:13:54 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:13:54 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:13:54 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:13:54 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:14:04 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:14:04 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:14:04 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:14:04 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:14:15 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:14:15 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:14:15 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:14:15 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:14:25 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:14:25 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:14:25 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:14:25 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:14:35 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:14:35 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:14:35 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:14:35 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:14:45 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:14:45 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:14:45 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:14:45 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:14:55 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:14:55 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:14:55 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:14:55 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:15:05 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:15:05 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:15:05 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:15:05 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:15:15 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:15:15 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:15:15 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:15:15 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:15:26 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:15:26 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:15:26 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:15:26 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:15:33 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823607]
+[2022-08-22] 19:15:33 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f02548b5940>]
+[2022-08-22] 19:15:33 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:15:33 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:15:33 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661195732, 'message_id': 361, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823607}
+[2022-08-22] 19:15:33 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 1
+[2022-08-22] 19:15:43 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:15:43 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:15:43 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:15:43 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:15:53 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:15:53 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:15:53 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:15:53 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:16:03 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 19:16:03 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 19:16:03 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:16:03 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:16:22 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:16:22 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 19:16:22 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 19:16:22 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 19:16:22 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 19:18:23 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:18:23 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 19:18:23 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 19:18:23 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 19:18:23 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 19:18:26 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:18:26 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 19:18:26 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 19:18:26 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 19:18:26 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 19:19:21 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:19:21 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 19:19:21 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 19:19:21 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 19:19:21 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 19:20:40 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:20:40 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 19:20:40 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 19:20:40 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 19:20:40 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 19:21:20 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:21:20 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 19:21:20 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 19:21:20 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 19:21:20 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 19:21:22 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7fab58ec5ee0>
+[2022-08-22] 19:21:22 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 19:21:22 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 19:21:22 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 19:21:22 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 19:21:22 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 19:21:22 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 19:21:22 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 19:21:22 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 19:21:22 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 19:21:22 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 19:21:22 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 19:21:22 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 19:21:22 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 19:21:22 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 19:21:22 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 19:21:22 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 19:21:22 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 19:21:22 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 19:21:22 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:21:22 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823608, 525823609, 525823610, 525823611, 525823612, 525823613, 525823614, 525823615]
+[2022-08-22] 19:21:22 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7fab58e1c400>, <telegram.update.Update object at 0x7fab58e1c700>, <telegram.update.Update object at 0x7fab58e1c7c0>, <telegram.update.Update object at 0x7fab58e1c880>, <telegram.update.Update object at 0x7fab58e1c940>, <telegram.update.Update object at 0x7fab58e1ca00>, <telegram.update.Update object at 0x7fab58e1cac0>, <telegram.update.Update object at 0x7fab58e1cb80>]
+[2022-08-22] 19:21:22 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:21:22 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:21:22 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Yes', 'photo': [], 'date': 1661195802, 'message_id': 362, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823608}
+[2022-08-22] 19:21:22 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 19:21:22 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661195804, 'message_id': 363, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823609}
+[2022-08-22] 19:21:22 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 19:21:22 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 19:21:23 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Hello there, do you want to answer a question? (Yes/No)', 'photo': [], 'date': 1661196083, 'message_id': 370, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 19:21:23 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 19:21:23 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661195912, 'message_id': 364, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823610}
+[2022-08-22] 19:21:23 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 19:21:23 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'test', 'photo': [], 'date': 1661195916, 'message_id': 365, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823611}
+[2022-08-22] 19:21:23 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 19:21:23 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Yes', 'photo': [], 'date': 1661195979, 'message_id': 366, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823612}
+[2022-08-22] 19:21:23 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 19:21:23 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 19:21:23 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Calculate 285+773', 'photo': [], 'date': 1661196083, 'message_id': 371, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 19:21:23 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 19:21:23 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661195980, 'message_id': 367, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823613}
+[2022-08-22] 19:21:23 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 1
+[2022-08-22] 19:21:23 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'test', 'photo': [], 'date': 1661195984, 'message_id': 368, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823614}
+[2022-08-22] 19:21:23 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 1
+[2022-08-22] 19:21:23 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'err', 'photo': [], 'date': 1661195985, 'message_id': 369, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823615}
+[2022-08-22] 19:21:23 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 1
+[2022-08-22] 19:21:24 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823616]
+[2022-08-22] 19:21:24 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7fab58e1cc40>]
+[2022-08-22] 19:21:24 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:21:24 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:21:24 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Yes', 'photo': [], 'date': 1661196084, 'message_id': 372, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823616}
+[2022-08-22] 19:21:24 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 1
+[2022-08-22] 19:48:57 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:48:57 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 19:48:57 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 19:48:57 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 19:48:57 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 19:48:58 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:48:58 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 19:48:58 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 19:48:58 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 19:48:58 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 19:49:38 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:49:38 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 19:49:38 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 19:49:38 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 19:49:38 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 19:49:43 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7fbbc3538ee0>
+[2022-08-22] 19:49:43 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 19:49:43 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 19:49:43 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 19:49:43 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 19:49:44 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 19:49:44 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 19:49:44 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 19:49:44 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 19:49:44 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 19:49:44 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 19:49:44 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 19:49:44 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 19:49:44 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 19:49:44 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 19:49:44 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 19:49:44 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 19:49:44 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 19:49:44 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 19:49:44 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:49:44 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:49:44 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 19:49:44 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 19:49:44 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 19:49:44 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 19:49:44 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823690, 525823691]
+[2022-08-22] 19:49:44 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7fbbc348f400>, <telegram.update.Update object at 0x7fbbc348f700>]
+[2022-08-22] 19:49:44 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:49:44 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:49:44 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661197664, 'message_id': 495, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823690}
+[2022-08-22] 19:49:44 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 19:49:44 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 19:49:45 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Hello there, do you want to answer a question? (Yes/No)', 'photo': [], 'date': 1661197785, 'message_id': 497, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 19:49:45 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 19:49:45 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661197741, 'message_id': 496, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823691}
+[2022-08-22] 19:49:45 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 19:49:47 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7f35c2803d40>
+[2022-08-22] 19:49:47 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 19:49:47 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 19:49:47 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 19:49:47 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 19:49:48 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 19:49:48 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 19:49:48 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 19:49:48 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 19:49:48 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 19:49:48 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 19:49:48 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 19:49:48 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 19:49:48 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 19:49:48 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 19:49:48 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 19:49:48 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 19:49:48 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 19:49:48 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 19:49:48 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:49:48 -  ERROR  - _network_loop_retry - updater.py - 664 - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:49:48 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:49:48 -  ERROR  - dispatch_error - dispatcher.py - 821 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/extbot.py", line 226, in get_updates
+    updates = super().get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 133, in decorator
+    result = func(*args, **kwargs)
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 3057, in get_updates
+    self._post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 298, in _post
+    return self.request.post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:49:49 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:49:52 -  ERROR  - _network_loop_retry - updater.py - 664 - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:49:52 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:49:52 -  ERROR  - dispatch_error - dispatcher.py - 821 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/extbot.py", line 226, in get_updates
+    updates = super().get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 133, in decorator
+    result = func(*args, **kwargs)
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 3057, in get_updates
+    self._post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 298, in _post
+    return self.request.post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:49:53 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823692]
+[2022-08-22] 19:49:53 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7fbbc348f7c0>]
+[2022-08-22] 19:49:53 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:49:53 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:49:53 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661197793, 'message_id': 498, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823692}
+[2022-08-22] 19:49:53 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 19:49:53 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:49:53 -  ERROR  - _network_loop_retry - updater.py - 664 - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:49:53 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:49:53 -  ERROR  - dispatch_error - dispatcher.py - 821 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/extbot.py", line 226, in get_updates
+    updates = super().get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 133, in decorator
+    result = func(*args, **kwargs)
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 3057, in get_updates
+    self._post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 298, in _post
+    return self.request.post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:52:21 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:52:21 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 19:52:21 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 19:52:21 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 19:52:21 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 19:52:22 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 19:52:22 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 19:52:22 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 19:52:22 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 19:52:22 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 19:52:26 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7f38f3680ee0>
+[2022-08-22] 19:52:26 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 19:52:26 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 19:52:26 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7fcd9d9ddd40>
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 19:52:26 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 19:52:26 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 19:52:26 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 19:52:26 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 19:52:26 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 19:52:26 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 19:52:26 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 19:52:26 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 19:52:26 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 19:52:26 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 19:52:26 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 19:52:26 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 19:52:26 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 19:52:26 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 19:52:26 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 19:52:26 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 19:52:26 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 19:52:26 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 19:52:26 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 19:52:26 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 19:52:26 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 19:52:26 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:52:26 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823694, 525823695]
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f38f35d7400>, <telegram.update.Update object at 0x7f38f35d7700>]
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:52:26 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661197839, 'message_id': 501, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823694}
+[2022-08-22] 19:52:26 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 19:52:26 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823694, 525823695]
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7fcd9d8f0400>, <telegram.update.Update object at 0x7fcd9d8f0640>]
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:52:26 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661197839, 'message_id': 501, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823694}
+[2022-08-22] 19:52:26 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 19:52:26 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 19:52:27 -  ERROR  - _network_loop_retry - updater.py - 664 - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:52:27 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Hello there, do you want to answer a question? (Yes/No)', 'photo': [], 'date': 1661197947, 'message_id': 503, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 19:52:27 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 19:52:27 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661197848, 'message_id': 502, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823695}
+[2022-08-22] 19:52:27 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 19:52:27 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:52:27 -  ERROR  - dispatch_error - dispatcher.py - 821 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/extbot.py", line 226, in get_updates
+    updates = super().get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 133, in decorator
+    result = func(*args, **kwargs)
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 3057, in get_updates
+    self._post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 298, in _post
+    return self.request.post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:52:27 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Hello there, do you want to answer a question? (Yes/No)', 'photo': [], 'date': 1661197947, 'message_id': 504, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 19:52:27 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 19:52:27 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661197848, 'message_id': 502, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823695}
+[2022-08-22] 19:52:27 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 19:52:28 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:52:31 -  ERROR  - _network_loop_retry - updater.py - 664 - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:52:31 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:52:31 -  ERROR  - dispatch_error - dispatcher.py - 821 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/extbot.py", line 226, in get_updates
+    updates = super().get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 133, in decorator
+    result = func(*args, **kwargs)
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 3057, in get_updates
+    self._post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 298, in _post
+    return self.request.post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:52:32 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:52:32 -  ERROR  - _network_loop_retry - updater.py - 664 - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:52:32 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:52:32 -  ERROR  - dispatch_error - dispatcher.py - 821 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/extbot.py", line 226, in get_updates
+    updates = super().get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 133, in decorator
+    result = func(*args, **kwargs)
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 3057, in get_updates
+    self._post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 298, in _post
+    return self.request.post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 19:52:33 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823696]
+[2022-08-22] 19:52:33 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7fcd9d8f07c0>]
+[2022-08-22] 19:52:33 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 19:52:33 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 19:52:33 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Yes', 'photo': [], 'date': 1661197953, 'message_id': 505, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823696}
+[2022-08-22] 19:52:33 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 19:52:33 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 19:52:33 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Calculate 831+536', 'photo': [], 'date': 1661197953, 'message_id': 506, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 19:52:33 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 19:52:33 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:02:17 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 20:02:17 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 20:02:17 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 20:02:17 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 20:02:17 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 20:02:20 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7fe16f072ee0>
+[2022-08-22] 20:02:20 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 20:02:20 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 20:02:20 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 20:02:20 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 20:02:20 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 20:02:20 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 20:02:20 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 20:02:20 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 20:02:20 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 20:02:20 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 20:02:20 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 20:02:20 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 20:02:20 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 20:02:20 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 20:02:20 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 20:02:20 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 20:02:20 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 20:02:20 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 20:02:20 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:02:21 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823700, 525823701, 525823702, 525823703, 525823704, 525823705, 525823706]
+[2022-08-22] 20:02:21 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7fe16ef4e400>, <telegram.update.Update object at 0x7fe16ef4e700>, <telegram.update.Update object at 0x7fe16ef4e7c0>, <telegram.update.Update object at 0x7fe16ef4e880>, <telegram.update.Update object at 0x7fe16ef4e940>, <telegram.update.Update object at 0x7fe16ef4ea00>, <telegram.update.Update object at 0x7fe16ef4eac0>]
+[2022-08-22] 20:02:21 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:02:21 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:02:21 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661197976, 'message_id': 514, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823700}
+[2022-08-22] 20:02:21 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:02:21 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661197978, 'message_id': 515, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823701}
+[2022-08-22] 20:02:21 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:02:21 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Yes', 'photo': [], 'date': 1661197979, 'message_id': 516, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823702}
+[2022-08-22] 20:02:21 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:02:21 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Yes', 'photo': [], 'date': 1661197986, 'message_id': 517, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823703}
+[2022-08-22] 20:02:21 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:02:21 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661198025, 'message_id': 518, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823704}
+[2022-08-22] 20:02:21 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:02:21 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 20:02:21 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Hello there, do you want to answer a question? (Yes/No)', 'photo': [], 'date': 1661198541, 'message_id': 521, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 20:02:21 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 20:02:21 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661198029, 'message_id': 519, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823705}
+[2022-08-22] 20:02:21 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 20:02:21 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661198051, 'message_id': 520, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823706}
+[2022-08-22] 20:02:21 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 20:02:26 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823707]
+[2022-08-22] 20:02:26 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7fe16ef4eb80>]
+[2022-08-22] 20:02:26 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:02:26 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:02:26 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661198546, 'message_id': 522, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823707}
+[2022-08-22] 20:02:26 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 20:03:39 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 20:03:39 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 20:03:39 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 20:03:39 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 20:03:39 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 20:03:43 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7fd7bfa0dd40>
+[2022-08-22] 20:03:43 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 20:03:43 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 20:03:43 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 20:03:43 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 20:03:44 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 20:03:44 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 20:03:44 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 20:03:44 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 20:03:44 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 20:03:44 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 20:03:44 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 20:03:44 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 20:03:44 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 20:03:44 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 20:03:44 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 20:03:44 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 20:03:44 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 20:03:44 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 20:03:44 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:03:44 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823714, 525823715, 525823716]
+[2022-08-22] 20:03:44 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7fd7bf931280>, <telegram.update.Update object at 0x7fd7bf9314c0>, <telegram.update.Update object at 0x7fd7bf931580>]
+[2022-08-22] 20:03:44 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:03:44 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:03:44 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661198569, 'message_id': 532, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823714}
+[2022-08-22] 20:03:44 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:03:44 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 20:03:45 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Hello there, do you want to answer a question? (Yes/No)', 'photo': [], 'date': 1661198625, 'message_id': 535, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 20:03:45 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 20:03:45 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661198572, 'message_id': 533, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823715}
+[2022-08-22] 20:03:45 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 20:03:45 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661198575, 'message_id': 534, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823716}
+[2022-08-22] 20:03:45 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 20:03:46 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823717]
+[2022-08-22] 20:03:46 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7fd7bf931640>]
+[2022-08-22] 20:03:46 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:03:46 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:03:46 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661198626, 'message_id': 536, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823717}
+[2022-08-22] 20:03:46 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 20:03:48 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823718]
+[2022-08-22] 20:03:48 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7fd7bf931580>]
+[2022-08-22] 20:03:48 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:03:48 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:03:48 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661198628, 'message_id': 537, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823718}
+[2022-08-22] 20:03:48 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 2
+[2022-08-22] 20:03:48 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 20:03:49 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Okay, no question for you then, take care, 🕊!', 'photo': [], 'date': 1661198628, 'message_id': 538, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 20:03:49 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 20:03:58 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:03:58 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:03:58 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:03:58 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:04:09 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:04:09 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:04:09 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:04:09 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:04:19 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:04:19 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:04:19 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:04:19 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:04:29 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:04:29 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:04:29 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:04:29 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:04:39 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:04:39 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:04:39 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:04:39 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:04:49 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:04:49 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:04:49 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:04:49 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:04:59 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:04:59 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:04:59 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:04:59 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:05:09 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:05:09 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:05:09 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:05:09 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:05:20 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:05:20 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:05:20 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:05:20 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:05:30 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:05:30 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:05:30 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:05:30 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:05:40 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:05:40 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:05:40 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:05:40 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:05:50 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:05:50 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:05:50 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:05:50 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:06:00 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:06:00 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:06:00 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:06:00 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:06:10 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:06:10 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:06:10 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:06:10 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:06:20 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:06:20 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:06:20 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:06:20 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:06:30 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:06:30 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:06:30 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:06:30 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:09:32 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 20:09:32 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 20:09:32 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 20:09:32 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 20:09:32 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 20:09:36 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7f280cdbdee0>
+[2022-08-22] 20:09:36 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 20:09:36 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 20:09:36 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 20:09:36 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 20:09:37 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 20:09:37 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 20:09:37 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 20:09:37 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 20:09:37 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 20:09:37 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 20:09:37 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 20:09:37 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 20:09:37 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 20:09:37 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 20:09:37 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 20:09:37 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 20:09:37 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 20:09:37 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 20:09:37 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:09:37 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823719, 525823720]
+[2022-08-22] 20:09:37 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f280cc9b400>, <telegram.update.Update object at 0x7f280cc9b700>]
+[2022-08-22] 20:09:37 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:09:37 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:09:37 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661198838, 'message_id': 539, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823719}
+[2022-08-22] 20:09:37 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:09:37 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 20:09:38 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Hello there, do you want to answer a question? (Yes/No)', 'photo': [], 'date': 1661198978, 'message_id': 541, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 20:09:38 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 20:09:38 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661198957, 'message_id': 540, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823720}
+[2022-08-22] 20:09:38 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 20:09:47 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:09:47 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:09:47 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:09:47 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:09:57 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 20:09:57 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 20:09:57 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 20:09:57 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 20:09:57 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 20:09:57 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:09:57 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:09:57 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:09:57 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:09:57 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7f777d212ee0>
+[2022-08-22] 20:09:57 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 20:09:57 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 20:09:57 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 20:09:57 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 20:09:58 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 20:09:58 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 20:09:58 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 20:09:58 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 20:09:58 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 20:09:58 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 20:09:58 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 20:09:58 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 20:09:58 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 20:09:58 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 20:09:58 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 20:09:58 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 20:09:58 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 20:09:58 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 20:09:58 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:09:58 -  ERROR  - _network_loop_retry - updater.py - 664 - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 20:09:58 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 20:09:58 -  ERROR  - dispatch_error - dispatcher.py - 821 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/extbot.py", line 226, in get_updates
+    updates = super().get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 133, in decorator
+    result = func(*args, **kwargs)
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 3057, in get_updates
+    self._post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 298, in _post
+    return self.request.post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 20:09:59 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:10:01 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823721]
+[2022-08-22] 20:10:01 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f280cc9b880>]
+[2022-08-22] 20:10:01 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:10:01 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:10:01 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661199001, 'message_id': 542, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823721}
+[2022-08-22] 20:10:01 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 20:10:02 -  ERROR  - _network_loop_retry - updater.py - 664 - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 20:10:02 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 20:10:02 -  ERROR  - dispatch_error - dispatcher.py - 821 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/extbot.py", line 226, in get_updates
+    updates = super().get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 133, in decorator
+    result = func(*args, **kwargs)
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 3057, in get_updates
+    self._post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 298, in _post
+    return self.request.post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 20:10:03 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:10:03 -  ERROR  - _network_loop_retry - updater.py - 664 - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 20:10:03 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 20:10:03 -  ERROR  - dispatch_error - dispatcher.py - 821 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/ext/extbot.py", line 226, in get_updates
+    updates = super().get_updates(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 133, in decorator
+    result = func(*args, **kwargs)
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 3057, in get_updates
+    self._post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/bot.py", line 298, in _post
+    return self.request.post(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 361, in post
+    result = self._request_wrapper(
+  File "/home/runner/MagentaMelodicOrder/venv/lib/python3.8/site-packages/telegram/utils/request.py", line 283, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+[2022-08-22] 20:10:04 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:10:06 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823722]
+[2022-08-22] 20:10:06 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f280cc9b400>]
+[2022-08-22] 20:10:06 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:10:06 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:10:06 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661199005, 'message_id': 543, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823722}
+[2022-08-22] 20:10:06 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 2
+[2022-08-22] 20:10:06 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 20:10:06 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Okay, no question for you then, take care, 🕊!', 'photo': [], 'date': 1661199006, 'message_id': 544, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 20:10:06 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 20:10:10 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823723]
+[2022-08-22] 20:10:10 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f280cc9b880>]
+[2022-08-22] 20:10:10 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:10:10 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:10:10 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661199010, 'message_id': 545, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823723}
+[2022-08-22] 20:10:10 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:10:10 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 20:12:26 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 20:12:26 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 20:12:26 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 20:12:26 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 20:12:26 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 20:12:28 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7f078f825ee0>
+[2022-08-22] 20:12:28 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 20:12:28 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 20:12:28 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 20:12:28 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 20:12:28 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 20:12:28 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 20:12:28 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 20:12:28 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 20:12:28 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 20:12:28 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 20:12:28 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 20:12:28 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 20:12:28 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 20:12:28 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 20:12:28 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 20:12:28 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 20:12:28 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 20:12:28 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 20:12:28 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:12:29 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823725, 525823726, 525823727, 525823728, 525823729, 525823730]
+[2022-08-22] 20:12:29 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f078f703400>, <telegram.update.Update object at 0x7f078f703700>, <telegram.update.Update object at 0x7f078f7037c0>, <telegram.update.Update object at 0x7f078f703880>, <telegram.update.Update object at 0x7f078f703940>, <telegram.update.Update object at 0x7f078f703a00>]
+[2022-08-22] 20:12:29 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:12:29 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:12:29 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '1500', 'photo': [], 'date': 1661199026, 'message_id': 549, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823725}
+[2022-08-22] 20:12:29 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:12:29 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661199030, 'message_id': 550, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823726}
+[2022-08-22] 20:12:29 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:12:29 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661199031, 'message_id': 551, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823727}
+[2022-08-22] 20:12:29 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:12:29 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Yes', 'photo': [], 'date': 1661199031, 'message_id': 552, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823728}
+[2022-08-22] 20:12:29 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:12:29 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661199033, 'message_id': 553, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823729}
+[2022-08-22] 20:12:29 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:12:29 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 20:12:29 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Hello there, do you want to answer a question? (Yes/No)', 'photo': [], 'date': 1661199149, 'message_id': 555, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 20:12:29 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 20:12:29 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Yes', 'photo': [], 'date': 1661199035, 'message_id': 554, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823730}
+[2022-08-22] 20:12:29 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 20:12:29 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 20:12:30 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Calculate 406+532', 'photo': [], 'date': 1661199149, 'message_id': 556, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 20:12:30 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 20:12:39 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:12:39 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:12:39 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:12:39 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:12:49 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:12:49 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:12:49 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:12:49 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:12:59 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:12:59 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:12:59 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:12:59 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:13:09 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:13:09 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:13:09 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:13:09 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:14:56 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 20:14:56 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 20:14:56 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 20:14:56 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 20:14:56 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 20:14:57 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7fb086969ee0>
+[2022-08-22] 20:14:57 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 20:14:57 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 20:14:57 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 20:14:57 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 20:14:58 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 20:14:58 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 20:14:58 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 20:14:58 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 20:14:58 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 20:14:58 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 20:14:58 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 20:14:58 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 20:14:58 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 20:14:58 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 20:14:58 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 20:14:58 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 20:14:58 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 20:14:58 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 20:14:58 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:15:11 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 20:15:11 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 20:15:11 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 20:15:11 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 20:15:11 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 20:15:12 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7f9ec60bbee0>
+[2022-08-22] 20:15:12 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 20:15:12 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 20:15:12 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 20:15:12 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 20:15:13 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 20:15:13 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 20:15:13 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 20:15:13 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 20:15:13 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 20:15:13 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 20:15:13 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 20:15:13 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 20:15:13 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 20:15:13 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 20:15:13 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 20:15:13 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 20:15:13 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 20:15:13 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 20:15:13 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:15:23 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:15:23 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:15:23 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:15:23 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:15:25 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823731]
+[2022-08-22] 20:15:25 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f9ec5f99400>]
+[2022-08-22] 20:15:25 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:15:25 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:15:25 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661199325, 'message_id': 557, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823731}
+[2022-08-22] 20:15:25 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:15:29 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823732]
+[2022-08-22] 20:15:29 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f9ec5f99700>]
+[2022-08-22] 20:15:29 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:15:29 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:15:29 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661199329, 'message_id': 558, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823732}
+[2022-08-22] 20:15:29 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:15:32 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823733]
+[2022-08-22] 20:15:32 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f9ec5f99400>]
+[2022-08-22] 20:15:32 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:15:32 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:15:32 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661199332, 'message_id': 559, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823733}
+[2022-08-22] 20:15:32 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:15:33 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823734]
+[2022-08-22] 20:15:33 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f9ec5f99700>]
+[2022-08-22] 20:15:33 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:15:33 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:15:33 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661199333, 'message_id': 560, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823734}
+[2022-08-22] 20:15:33 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:15:36 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823735]
+[2022-08-22] 20:15:36 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f9ec5f99400>]
+[2022-08-22] 20:15:36 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:15:36 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:15:36 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661199335, 'message_id': 561, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823735}
+[2022-08-22] 20:15:36 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:15:36 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 20:15:36 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Hello there, do you want to answer a question? (Yes/No)', 'photo': [], 'date': 1661199336, 'message_id': 562, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 20:15:36 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 20:15:38 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823736]
+[2022-08-22] 20:15:38 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f9ec5f99700>]
+[2022-08-22] 20:15:38 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:15:38 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:15:38 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661199338, 'message_id': 563, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823736}
+[2022-08-22] 20:15:38 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 0
+[2022-08-22] 20:15:40 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823737]
+[2022-08-22] 20:15:40 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f9ec5f99400>]
+[2022-08-22] 20:15:40 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:15:40 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:15:40 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661199340, 'message_id': 564, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823737}
+[2022-08-22] 20:15:40 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state 2
+[2022-08-22] 20:15:40 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 20:15:40 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Okay, no question for you then, take care, 🕊!', 'photo': [], 'date': 1661199340, 'message_id': 565, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 20:15:40 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 20:16:37 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 20:16:37 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 20:16:37 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 20:16:37 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 20:16:37 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 20:16:38 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7fbdb3c68ee0>
+[2022-08-22] 20:16:38 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 20:16:38 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 20:16:38 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 20:16:38 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 20:16:38 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 20:16:38 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 20:16:38 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 20:16:38 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 20:16:38 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 20:16:38 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 20:16:38 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 20:16:38 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 20:16:38 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 20:16:38 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 20:16:38 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 20:16:38 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 20:16:38 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 20:16:38 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 20:16:38 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:16:48 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823738]
+[2022-08-22] 20:16:48 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7fbdb3b51400>]
+[2022-08-22] 20:16:48 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:16:48 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:16:48 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'testing', 'photo': [], 'date': 1661199408, 'message_id': 566, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823738}
+[2022-08-22] 20:16:48 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:22:46 -  INFO   - <module> - main.py - 10  - This is an info log
+[2022-08-22] 20:22:46 -  DEBUG  - square_root - main.py - 13  - Getting the square root of 5
+[2022-08-22] 20:22:46 -  INFO   - square_root - main.py - 21  - The square root of 5 is 2.23607
+[2022-08-22] 20:22:46 -  DEBUG  - square_root - main.py - 13  - Getting the square root of -5
+[2022-08-22] 20:22:46 -  ERROR  - square_root - main.py - 17  - Cannot get square root of a negative number
+Traceback (most recent call last):
+  File "main.py", line 15, in square_root
+    result = math.sqrt(x)
+ValueError: math domain error
+[2022-08-22] 20:22:49 -  DEBUG  - _set_singleton - dispatcher.py - 342 - Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0x7f0108658380>
+[2022-08-22] 20:22:49 -  INFO   - start    - base.py - 166 - Scheduler started
+[2022-08-22] 20:22:49 -  DEBUG  - _process_jobs - base.py - 940 - Looking for jobs to run
+[2022-08-22] 20:22:49 -  DEBUG  - decorator - bot.py - 132 - Entering: get_me
+[2022-08-22] 20:22:49 -  DEBUG  - _process_jobs - base.py - 1016 - No jobs; waiting until a job is added
+[2022-08-22] 20:22:49 -  DEBUG  - decorator - bot.py - 134 - {'can_read_all_group_messages': False, 'supports_inline_queries': False, 'id': 2089910301, 'can_join_groups': True, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}
+[2022-08-22] 20:22:49 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_me
+[2022-08-22] 20:22:49 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:dispatcher - started
+[2022-08-22] 20:22:49 -  DEBUG  - _thread_wrapper - updater.py - 351 - Bot:2089910301:updater - started
+[2022-08-22] 20:22:49 -  DEBUG  - start_polling - updater.py - 435 - Waiting for Dispatcher and polling to start
+[2022-08-22] 20:22:49 -  DEBUG  - _start_polling - updater.py - 590 - Updater thread started (polling)
+[2022-08-22] 20:22:49 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry bootstrap del webhook
+[2022-08-22] 20:22:49 -  DEBUG  - bootstrap_del_webhook - updater.py - 765 - Deleting webhook
+[2022-08-22] 20:22:49 -  DEBUG  - decorator - bot.py - 132 - Entering: delete_webhook
+[2022-08-22] 20:22:49 -  DEBUG  - start    - dispatcher.py - 468 - Dispatcher started
+[2022-08-22] 20:22:49 -  DEBUG  - decorator - bot.py - 134 - True
+[2022-08-22] 20:22:49 -  DEBUG  - decorator - bot.py - 135 - Exiting: delete_webhook
+[2022-08-22] 20:22:49 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
+[2022-08-22] 20:22:49 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
+[2022-08-22] 20:22:49 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
