@@ -1619,3 +1619,134 @@ ValueError: math domain error
 [2022-08-22] 20:22:49 -  DEBUG  - _start_polling - updater.py - 599 - Bootstrap done
 [2022-08-22] 20:22:49 -  DEBUG  - _network_loop_retry - updater.py - 647 - Start network loop retry getting Updates
 [2022-08-22] 20:22:49 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:22:59 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:22:59 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:22:59 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:22:59 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:23:10 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:23:10 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:23:10 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:23:10 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:23:20 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:23:20 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:23:20 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:23:20 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:23:30 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:23:30 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:23:30 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:23:30 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:23:40 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:23:40 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:23:40 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:23:40 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:23:50 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:23:50 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:23:50 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:23:50 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:24:00 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:24:00 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:24:00 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:24:00 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:24:11 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:24:11 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:24:11 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:24:11 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:24:21 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:24:21 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:24:21 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:24:21 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:24:31 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:24:31 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:24:31 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:24:31 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:24:41 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:24:41 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:24:41 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:24:41 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:24:48 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823753]
+[2022-08-22] 20:24:48 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f0108660940>]
+[2022-08-22] 20:24:48 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:24:48 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:24:48 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'No', 'photo': [], 'date': 1661199888, 'message_id': 588, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823753}
+[2022-08-22] 20:24:48 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:24:51 -  DEBUG  - get_updates - bot.py - 3066 - Getting updates: [525823754]
+[2022-08-22] 20:24:51 -  DEBUG  - decorator - bot.py - 134 - [<telegram.update.Update object at 0x7f0108660ac0>]
+[2022-08-22] 20:24:51 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:24:51 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:24:51 -  DEBUG  - start    - dispatcher.py - 486 - Processing Update: {'message': {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}], 'new_chat_members': [], 'delete_chat_photo': False, 'text': '/start', 'photo': [], 'date': 1661199890, 'message_id': 589, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 934561422, 'is_bot': False, 'username': 'acun_menyott', 'first_name': '🕊', 'language_code': 'en'}}, 'update_id': 525823754}
+[2022-08-22] 20:24:51 -  DEBUG  - check_update - conversationhandler.py - 559 - selecting conversation (934561422, 934561422) with state None
+[2022-08-22] 20:24:51 -  DEBUG  - decorator - bot.py - 132 - Entering: send_message
+[2022-08-22] 20:24:51 -  DEBUG  - decorator - bot.py - 134 - {'channel_chat_created': False, 'caption_entities': [], 'new_chat_photo': [], 'entities': [], 'new_chat_members': [], 'delete_chat_photo': False, 'text': 'Hello there, do you want to answer a question? (Yes/No)', 'photo': [], 'date': 1661199891, 'message_id': 590, 'supergroup_chat_created': False, 'group_chat_created': False, 'chat': {'first_name': '🕊', 'type': 'private', 'username': 'acun_menyott', 'id': 934561422}, 'from': {'id': 2089910301, 'is_bot': True, 'username': 'JourneyAttacherrBot', 'first_name': '𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗿𝗿𝗕𝗼𝘁 🔍'}}
+[2022-08-22] 20:24:51 -  DEBUG  - decorator - bot.py - 135 - Exiting: send_message
+[2022-08-22] 20:25:01 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:25:01 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:25:01 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:25:01 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:25:11 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:25:11 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:25:11 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:25:11 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:25:21 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:25:21 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:25:21 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:25:21 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:25:31 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:25:31 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:25:31 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:25:31 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:25:41 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:25:41 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:25:41 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:25:41 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:25:51 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:25:51 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:25:51 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:25:51 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:26:02 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:26:02 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:26:02 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:26:02 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:26:12 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:26:12 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:26:12 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:26:12 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:26:22 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:26:22 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:26:22 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:26:22 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:26:32 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:26:32 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:26:32 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:26:32 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:26:42 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:26:42 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:26:42 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:26:42 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:26:52 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:26:52 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:26:52 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:26:52 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:27:03 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:27:03 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:27:03 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:27:03 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:27:13 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:27:13 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:27:13 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:27:13 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:27:23 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:27:23 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:27:23 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:27:23 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:27:33 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:27:33 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:27:33 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:27:33 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:27:43 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:27:43 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:27:43 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:27:43 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
+[2022-08-22] 20:27:53 -  DEBUG  - get_updates - bot.py - 3068 - No new updates found.
+[2022-08-22] 20:27:53 -  DEBUG  - decorator - bot.py - 134 - []
+[2022-08-22] 20:27:53 -  DEBUG  - decorator - bot.py - 135 - Exiting: get_updates
+[2022-08-22] 20:27:53 -  DEBUG  - decorator - bot.py - 132 - Entering: get_updates
